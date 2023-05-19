@@ -1,0 +1,21 @@
+.hero img{
+   height:731px;
+   width:96%;
+   margin-top:3.3vh;
+   margin-left:2.0vw;
+   margin-right:0.5vw;
+   border-radius: 12px solid;
+}
+
+#tr{
+    position:relative;
+    top:-12vh;
+    z-index: -1;
+    width:100%; 
+}
+@media screen and(max-width:700px){
+   #tr{
+      height:50px;
+      top:-10vh;
+   }
+}

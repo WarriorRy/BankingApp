@@ -1,0 +1,30 @@
+.features img{
+    width:90%;
+    margin-left:5.4vw;
+}
+.card img{
+    width:90%;
+    margin-left:6.5vw;
+    margin-top:130px;
+    
+}
+.business img{
+    width:87%;
+    margin-left:6vw;
+    margin-top:110px;
+}
+.section img{
+    width:90%;
+    margin-top:130px;
+    margin-left:9vw;
+}
+.testimonial img{
+    width:88%;
+    margin-top:160px;
+    margin-left:7vw;
+}
+.faq img{
+    width:88%;
+    margin-top:190px;
+    margin-left:7vw;
+}
