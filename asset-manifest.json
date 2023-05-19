@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/BankingApp/static/css/main.30d8bd9a.css",
+    "main.js": "/BankingApp/static/js/main.dd6a0f5c.js",
+    "static/js/787.d3befce1.chunk.js": "/BankingApp/static/js/787.d3befce1.chunk.js",
+    "static/media/hero1.png": "/BankingApp/static/media/hero1.eb1d6d4951971f751908.png",
+    "static/media/Business.png": "/BankingApp/static/media/Business.ee39ede8a0d17917bfdd.png",
+    "static/media/section.png": "/BankingApp/static/media/section.078e72cf907eb9496530.png",
+    "static/media/Card.png": "/BankingApp/static/media/Card.b19a4010242650f1c317.png",
+    "static/media/Features.png": "/BankingApp/static/media/Features.ac24e582a29fd9c6d10b.png",
+    "static/media/Testimonial.png": "/BankingApp/static/media/Testimonial.94d895ca390c5731864f.png",
+    "static/media/FAQ.png": "/BankingApp/static/media/FAQ.44e38697af3431b79348.png",
+    "static/media/Newsletter.png": "/BankingApp/static/media/Newsletter.21fa185ec0ba888a02c3.png",
+    "static/media/Tr.png": "/BankingApp/static/media/Tr.d2ee1a640a6b1c43b2f2.png",
+    "index.html": "/BankingApp/index.html",
+    "main.30d8bd9a.css.map": "/BankingApp/static/css/main.30d8bd9a.css.map",
+    "main.dd6a0f5c.js.map": "/BankingApp/static/js/main.dd6a0f5c.js.map",
+    "787.d3befce1.chunk.js.map": "/BankingApp/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30d8bd9a.css",
+    "static/js/main.dd6a0f5c.js"
+  ]
+}
